@@ -1,0 +1,47 @@
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\refint\Vehicle.dll
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\hw3\webHw1\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\refint\Vehicle.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll

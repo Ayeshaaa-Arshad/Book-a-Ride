@@ -1,0 +1,47 @@
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\bin\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Passenger\obj\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\hw3\webHw1\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\it\Desktop\hw3\webHw1\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\hw3\webHw1\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.csproj.AssemblyReference.cache
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\refint\Passenger.dll
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\hw3\webHw1\Passenger\obj\Debug\net5.0\ref\Passenger.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.csproj.AssemblyReference.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\refint\Passenger.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\Passenger.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Passenger\obj\Debug\net5.0\ref\Passenger.dll

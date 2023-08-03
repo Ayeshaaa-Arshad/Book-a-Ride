@@ -1,0 +1,58 @@
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\hw_01.exe
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\hw_01.deps.json
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\hw_01.runtimeconfig.json
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\hw_01.runtimeconfig.dev.json
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\hw_01.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\ref\hw_01.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\hw_01.pdb
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Driver.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Driver.pdb
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\webHw1\hw_01\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.csprojAssemblyReference.cache
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.csproj.CopyComplete
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.dll
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\ref\hw_01.dll
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.pdb
+C:\Users\it\Desktop\webHw1\hw_01\obj\Debug\net5.0\hw_01.genruntimeconfig.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\hw_01.exe
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\hw_01.deps.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\hw_01.runtimeconfig.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\hw_01.runtimeconfig.dev.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\hw_01.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\ref\hw_01.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\hw_01.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Driver.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Driver.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.csproj.CopyComplete
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\ref\hw_01.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\hw_01\obj\Debug\net5.0\hw_01.genruntimeconfig.cache

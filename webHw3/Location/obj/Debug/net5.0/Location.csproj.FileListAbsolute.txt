@@ -1,0 +1,48 @@
+C:\Users\it\Desktop\webHw1\Location\bin\Debug\net5.0\Location.deps.json
+C:\Users\it\Desktop\webHw1\Location\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\webHw1\Location\bin\Debug\net5.0\ref\Location.dll
+C:\Users\it\Desktop\webHw1\Location\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\ref\Location.dll
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\webHw1\Location\obj\Debug\net5.0\Location.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\bin\Debug\net5.0\Location.deps.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\bin\Debug\net5.0\ref\Location.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\ref\Location.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Location\obj\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\hw3\webHw1\Location\bin\Debug\net5.0\Location.deps.json
+C:\Users\it\Desktop\hw3\webHw1\Location\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\hw3\webHw1\Location\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.csproj.AssemblyReference.cache
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.AssemblyInfo.cs
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\refint\Location.dll
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\hw3\webHw1\Location\obj\Debug\net5.0\ref\Location.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Location\bin\Debug\net5.0\Location.deps.json
+C:\Users\aishm\Desktop\hw3\webHw3\Location\bin\Debug\net5.0\Location.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Location\bin\Debug\net5.0\Location.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.csproj.AssemblyReference.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.AssemblyInfoInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.AssemblyInfo.cs
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.csproj.CoreCompileInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\refint\Location.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\Location.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Location\obj\Debug\net5.0\ref\Location.dll

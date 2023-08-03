@@ -1,0 +1,92 @@
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Ride.deps.json
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\ref\Ride.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Driver.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Driver.pdb
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.csprojAssemblyReference.cache
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.CopyComplete
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\ref\Ride.dll
+C:\Users\it\Desktop\webHw1\Ride\obj\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\webHw1\Ride\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Ride.deps.json
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\ref\Ride.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Driver.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Driver.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.CopyComplete
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\ref\Ride.dll
+C:\Users\it\Desktop\6th Sem\web\Hw_h01\webHw1\Ride\obj\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Ride.deps.json
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Driver.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Driver.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.AssemblyReference.cache
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.AssemblyInfo.cs
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.csproj.CopyComplete
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\refint\Ride.dll
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\hw3\webHw1\Ride\obj\Debug\net5.0\ref\Ride.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Ride.deps.json
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Ride.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Ride.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Admin.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Driver.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Location.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Passenger.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Vehicle.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Admin.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Driver.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Location.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Passenger.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.csproj.AssemblyReference.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.AssemblyInfoInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.AssemblyInfo.cs
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.csproj.CoreCompileInputs.cache
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.csproj.CopyComplete
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\refint\Ride.dll
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\Ride.pdb
+C:\Users\aishm\Desktop\hw3\webHw3\Ride\obj\Debug\net5.0\ref\Ride.dll
